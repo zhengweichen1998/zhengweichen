@@ -7,16 +7,14 @@ layout: homepage
 I am a Ph.D. student at ...
 
 ## Research Interests
+Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced fluid control at microfluidic level. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Education
 
-## News
+- **[Feb. 2022 - Present]** PhD student, Purdue University 
+- **[Aug. 2020 - Aug 2021]** M.S. Mechanical Engineering, Purdue University
+- **[Sept. 2016 - Jul 2020]** B.S. Mechanical Engineering, Shanghai Jiaotong University
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
 
