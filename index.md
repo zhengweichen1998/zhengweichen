@@ -23,4 +23,10 @@ Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced f
 Kshitiz Gupta, **Zhengwei Chen**, Stuart J Williams, Steven T Wereley
   <br>
  Electrophoresis 2021
+ 
+ - **Transient behavior of an optically induced electrothermal micro-vortex: Modelling and PIV analysis**
+  <br>
+Kshitiz Gupta, **Zhengwei Chen**, Stuart J Williams, Steven T Wereley
+  <br>
+Bulletin of the American Physical Society 2020
 
