@@ -15,7 +15,7 @@ Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced f
 - **[Aug. 2020 - Aug 2021]** M.S. Mechanical Engineering, Purdue University
 - **[Sept. 2016 - Jul 2020]** B.S. Mechanical Engineering, Shanghai Jiaotong University
  
- ## Working experience
+## Working experience
 - **[Jun. 2021 - Dec. 2021]** Fluid Dyamic Engineer, Hirain, Beijing.  
 
 ## Publications
