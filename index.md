@@ -35,4 +35,5 @@ Bulletin of the American Physical Society 2020
 
 
 ![avatar](./assets/img/soccer.jpg =100x100)
-<img src="./assets/img/soccer.jpg" width="100" height="100">
+
+<img src="./assets/img/soccer.jpg" width="30%">
