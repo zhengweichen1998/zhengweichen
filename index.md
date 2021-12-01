@@ -34,4 +34,4 @@ Kshitiz Gupta, **Zhengwei Chen**, Stuart J Williams, Steven T Wereley
 Bulletin of the American Physical Society 2020
 
 
-![avatar](./assets/img/soccer.jpg)
+![avatar](./assets/img/soccer.jpg =100x)
