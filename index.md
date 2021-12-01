@@ -7,7 +7,7 @@ layout: homepage
 I am a Ph.D. student at Purdue University.
 
 ## Research Interests
-Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced fluid control at microfluidic level. 
+Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced fluid control and electrokinetic flow simualtion at microfluidic level. 
 
 ## Education
 
