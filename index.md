@@ -7,7 +7,7 @@ layout: homepage
 I am a Ph.D. student at Purdue University.
 
 ## Research Interests
-Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced fluid control and electrokinetic flow simualtion at microfluidic level. 
+Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced fluid control technique and electrokinetic flow simualtion at microfluidic level. 
 
 ## Education
 
@@ -34,6 +34,7 @@ Kshitiz Gupta, **Zhengwei Chen**, Stuart J Williams, Steven T Wereley
 Bulletin of the American Physical Society 2020
 
 
-![avatar](./assets/img/soccer.jpg =100x100)
 
+## For Fun
+Soccer player
 <img src="./assets/img/soccer.jpg" width="30%">
