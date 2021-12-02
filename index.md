@@ -33,12 +33,17 @@ Kshitiz Gupta, **Zhengwei Chen**, Stuart J Williams, Steven T Wereley
   <br>
 Bulletin of the American Physical Society 2020
 
+## Resume in pdf formate
+
+[a relative link](./assets/img/zhengweichen_resume.pdf)
 
 
 ## For Fun
 
 Soccer player
+
 <img src="./assets/img/soccer.jpg" width="30%">
 
 Painting amateur(almost lose that skill now)
+
 <img src="./assets/img/taylor.jpg" width="30%">
