@@ -20,7 +20,12 @@ Micro and Nanoscale fluid mechanics, Rapid Electrokinetic Patterning, Advanced f
 - **[Jun. 2021 - Dec. 2021]** Fluid Dyamic Engineer, Hirain, Beijing.  
 
 ## Publications
-
+- **Characterization of electrothermal microfluidic tweezers (REP) in bio-relevant media**
+  <br>
+**Zhengwei Chen**, Kshitiz Gupta, Nicolas Green, Steven T Wereley
+  <br>
+ Electrophoresis 2021
+ 
 - **Time‐resolved particle image velocimetry analysis and computational modeling of transient optically induced electrothermal micro vortex**
   <br>
 Kshitiz Gupta, **Zhengwei Chen**, Stuart J Williams, Steven T Wereley
