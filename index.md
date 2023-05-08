@@ -35,7 +35,7 @@ Bulletin of the American Physical Society 2020
 
 ## Resume in pdf formate
 
-[Resume](./assets/img/zhengweichen_resume.pdf)
+[Resume](./assets/img/zhengweichen_resume(2).pdf)
 
 
 ## [For Fun](./forfun.md)
